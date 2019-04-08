@@ -13,7 +13,7 @@ export default {
   name: "login",
   data() {
     return {
-      msg: "sfdd"
+      msg: "sfdfdd"
     };
   }
 };
